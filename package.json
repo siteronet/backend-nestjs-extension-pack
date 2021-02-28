@@ -26,5 +26,6 @@
         "sokra.ts-inline-types",
         "rbbit.typescript-hero",
         "bajdzis.vscode-database"
-    ]
+    ],
+    "publisher": "siteronet"
 }

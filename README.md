@@ -51,4 +51,4 @@ Nest is a framework for building efficient, scalable <a href="http://nodejs.org"
 #### Getting started
 
 -   To check out the [guide](https://docs.nestjs.com), visit [docs.nestjs.com](https://docs.nestjs.com). :books:
--   要查看中文 [指南](readme_zh.md), 请访问 [docs.nestjs.cn](https://docs.nestjs.cn). :books:
+-   要查看中文 指南 [guide](readme_zh.md), 请访问 [docs.nestjs.cn](https://docs.nestjs.cn). :books:
