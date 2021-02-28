@@ -29,4 +29,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     -   TypeScript Hero (rbbit.typescript-hero)
     -   vscode-database (bajdzis.vscode-database)
 
-[0.0.1]: https://github.com/siteronet/releases/tag/v0.0.1
+[0.0.1]: https://github.com/siteronet/backend-nestjs-extension-pack/releases/tag/v0.0.1
