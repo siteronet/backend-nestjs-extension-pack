@@ -1,0 +1,28 @@
+{
+    "name": "backend-nestjs-extension-pack",
+    "displayName": "Backend NestJS Extension Pack",
+    "description": "Extension Pack for backend developers working with NestJS framework.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "mikestead.dotenv",
+        "yanqing.esign-comment-ts",
+        "cmstead.jsrefactor",
+        "bierner.jsdoc-markdown-highlighting",
+        "gregorbiswanger.json2ts",
+        "stringham.move-ts",
+        "abhijoybasak.nestjs-files",
+        "christian-kohler.npm-intellisense",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "wallabyjs.quokka-vscode",
+        "sokra.ts-inline-types",
+        "rbbit.typescript-hero",
+        "bajdzis.vscode-database"
+    ]
+}
