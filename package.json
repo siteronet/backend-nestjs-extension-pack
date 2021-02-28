@@ -12,6 +12,7 @@
     "extensionPack": [
         "mikestead.dotenv",
         "yanqing.esign-comment-ts",
+        "dbaeumer.vscode-eslint",
         "cmstead.jsrefactor",
         "bierner.jsdoc-markdown-highlighting",
         "gregorbiswanger.json2ts",
@@ -21,6 +22,7 @@
         "christian-kohler.path-intellisense",
         "esbenp.prettier-vscode",
         "wallabyjs.quokka-vscode",
+        "humao.rest-client",
         "sokra.ts-inline-types",
         "rbbit.typescript-hero",
         "bajdzis.vscode-database"
